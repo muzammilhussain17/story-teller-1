@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293536418723",
+    "project_id": "music-player-ce245",
+    "storage_bucket": "music-player-ce245.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293536418723:android:bcf4f28473eee3012ca816",
+        "android_client_info": {
+          "package_name": "com.example.mobileapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEu5nk1C2AK6zXfKVRQMUF_GE7vT22-08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
